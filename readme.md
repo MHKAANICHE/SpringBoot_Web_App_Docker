@@ -22,7 +22,7 @@ Welcome to the CI/CD Pipeline Deployment repository! This project is deployed on
 
 
 ## 🛠️ Usage
-1. **Clone the Repository**: `git clone [https://github.com/MHKAANICHE/SpringBoot_Web_App_Docker.git](https://github.com/MHKAANICHE/SpringBoot_Web_App_Docker.git)`
+1. **Clone the Repository**: git clone [https://github.com/MHKAANICHE/SpringBoot_Web_App_Docker.git](https://github.com/MHKAANICHE/SpringBoot_Web_App_Docker.git)
 2. **Installation**: Install dependencies and set up your development environment.
 3. **Development**: Make changes and push them to the repository.
 
