@@ -1,0 +1,26 @@
+# CI/CD Pipeline Deployment on AWS EC2 Free Tier Instance
+
+## Overview
+This repository contains the source code for a project deployed on an AWS EC2 free tier instance. The deployment process is managed by a Jenkins session, enabling Continuous Integration and Continuous Deployment (CI/CD) pipelines.
+
+## Deployment Status
+![Deployment Status](https://img.shields.io/badge/Deployment%20Status-Active-brightgreen)
+
+## Deployment Details
+- **AWS EC2 Instance**: Hosted on an AWS EC2 free tier instance.
+- **Jenkins CI/CD Pipeline**: Automated with Jenkins for efficient testing and deployment.
+- **Deployment IP**: [http://51.20.132.199:8080/](http://51.20.132.199:8080/)
+
+## About the Project
+This project leverages Jenkins for automating the deployment process, ensuring efficient testing and deployment of code changes.
+
+## Getting Started
+1. Clone the repository: `git clone <repository-url>`
+2. Install dependencies and set up your development environment.
+3. Make changes and push them to the repository.
+
+## Feedback and Contributions
+Feedback and contributions to enhance the CI/CD pipeline and project are welcome. Please open issues or pull requests to suggest improvements or report issues.
+
+## License
+This project is licensed under the [MIT License](LICENSE).
